@@ -3,11 +3,11 @@ Um diesen Webstore zu betreiben müssen folgende Schritte erfolgen:
 * Installation von Node.js >= 9.2.0
 * Installation von MongoDB
 * Installation der NPM Pakete für den Client
-⋅⋅* cd ./app
-⋅⋅* npm install
+  * cd ./app
+  * npm install
 * Installation der NPM Pakete für den Server
-⋅⋅* cd ./server
-⋅⋅* npm install
+  * cd ./server
+  * npm install
 
 Nun muss der MongoDB-Server mit mongod gestartet werden. Ggf. muss hier noch mit --dbpath ein Pfad für die Datenbankdatei definiert werden.
 
