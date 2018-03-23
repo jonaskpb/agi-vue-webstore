@@ -9,6 +9,8 @@ Um diesen Webstore zu betreiben müssen folgende Schritte erfolgen:
 ⋅⋅* cd ./server
 ⋅⋅* npm install
 
+Nun muss der MongoDB-Server mit mongod gestartet werden. Ggf. muss hier noch mit --dbpath ein Pfad für die Datenbankdatei definiert werden.
+
 Dann kann der Server wie folgt gestartet werden:
 Neues Terminal
 * cd ./server
